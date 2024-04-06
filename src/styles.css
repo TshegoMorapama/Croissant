@@ -4,11 +4,22 @@ h1 {
     font-size: 32px;
 }
 
-div{text-align: center;
+footer{text-align: center;
   }
 .homepage{margin-right: 15px;}
 .photo{margin-right: 15px;}
 
-a{color:grey;}
+a{color:#f27676;}
 
 p{text-align: center;}
+
+.croissant-photo{
+  display:block;
+  max-width: 100%;
+  border-radius: 10px;
+  margin:30px auto;
+}
+
+body{background-color: #efe3a7;
+     }
+.email{color:#363479;}
