@@ -1,0 +1,14 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+}
+
+div{text-align: center;
+  }
+.homepage{margin-right: 15px;}
+.photo{margin-right: 15px;}
+
+a{color:grey;}
+
+p{text-align: center;}
